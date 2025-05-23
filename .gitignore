@@ -402,6 +402,7 @@ FodyWeavers.xsd
 
 WireGuardMan.API/bin/*
 WireGuardMan.API/obj/*
+WireGuardMan.API/appsettings.Development.json
 WireGuardMan.Front/obj/*
 WireGuardMan.Front/bin/*
 
