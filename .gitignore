@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+WireGuardMan.API/bin/*
+WireGuardMan.API/obj/*
+WireGuardMan.Front/obj/*
+WireGuardMan.Front/bin/*
+
